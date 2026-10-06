@@ -1,2 +1,2 @@
-# Emmensoy_BOT_ToS
+# @Emmensoy_BOT - ToS
 Хранилище прошлых редакций Пользовательского Соглашение (Terms of Service) телеграм-бота @Emmensoy_BOT
